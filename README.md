@@ -7,6 +7,7 @@ Feel free to suggest decent papers via a PR.
 
 ## 2023
 
+* (KDD 2023) DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting [PDF](https://dl.acm.org/doi/pdf/10.1145/3580305.3599315)[CODE](https://github.com/SJTU-Quant/qlib)
 * (KDD 2023) Efficient Continuous Space Policy Optimization for High-frequency Trading [PDF](https://dl.acm.org/doi/pdf/10.1145/3580305.3599813)[CODE](https://github.com/finint/DRPO)
 * Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction [PDF](https://arxiv.org/abs/2309.00073)[CODE](https://github.com/koa-fin/dva)
 * Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning [PDF](https://arxiv.org/pdf/2306.12964)[CODE](https://github.com/RL-MLDM/alphagen)
