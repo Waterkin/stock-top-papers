@@ -15,9 +15,9 @@ Feel free to suggest decent papers via a PR.
 * (KDD 2023) Efficient Continuous Space Policy Optimization for High-frequency Trading \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599813)\]\[[Code](https://github.com/finint/DRPO)\]
 * Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction \[[Paper](https://arxiv.org/abs/2309.00073)\]\[[Code](https://github.com/koa-fin/dva)\]
 * (KDD 2023)Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning \[[Paper](https://arxiv.org/pdf/2306.12964)\]\[[Code](https://github.com/RL-MLDM/alphagen)\]
-* FinGPT: Democratizing Internet-scale Data for Financial Large Language Models \[[Paper](https://arxiv.org/abs/2307.10485)\]\[[Code](https://github.com/AI4Finance-Foundation/FinGPT)\]
-* Generative Meta-Learning Robust Quality-Diversity Portfolio \[[Paper](https://arxiv.org/abs/2307.07811)\]\[[Code](https://github.com/kayuksel/generative-opt)\]
-* MOPO-LSI: A User Guide \[[Paper](https://arxiv.org/abs/2307.01719)\]\[[Code](https://github.com/irecsys/MOPO-LSI)\]
+* (2023) FinGPT: Democratizing Internet-scale Data for Financial Large Language Models \[[Paper](https://arxiv.org/abs/2307.10485)\]\[[Code](https://github.com/AI4Finance-Foundation/FinGPT)\]
+* (2023) Generative Meta-Learning Robust Quality-Diversity Portfolio \[[Paper](https://arxiv.org/abs/2307.07811)\]\[[Code](https://github.com/kayuksel/generative-opt)\]
+* (2023) MOPO-LSI: A User Guide \[[Paper](https://arxiv.org/abs/2307.01719)\]\[[Code](https://github.com/irecsys/MOPO-LSI)\]
 
 ## 2022
 
@@ -27,10 +27,10 @@ Feel free to suggest decent papers via a PR.
 * (AAAI 2022) FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20369/20128)\]\[[Code](https://github.com/UePG-21/facvae)\]
 * (NeurIPS workshop 2022) FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning \[[Paper](https://openreview.net/pdf?id=LkAFwrqdRY6)\]\[[Code](https://github.com/AI4Finance-Foundation/FinRL-Meta)\]
 * (EMNLP workshop 2022) Astock: A New Dataset and Automated Stock Trading based on Stock-specific News Analyzing Model \[[Paper](https://aclanthology.org/2022.finnlp-1.24/)\]\[[Code](https://github.com/JinanZou/Astock)\]
-* Trade When Opportunity Comes: Price Movement Forecasting via Locality-Aware Attention and Adaptive Refined Labeling \[[Paper](https://arxiv.org/pdf/2107.11972.pdf)\]\[[Code](https://tinyurl.com/LARA-KDD2022)\]
-* Inductive Representation Learning on Dynamic Stock Co-Movement Graphs for Stock Predictions \[[Paper](https://www.biz.uiowa.edu/faculty/kangzhao/pub/ijoc_2022.pdf)\]\[[Code](https://github.com/Hugo-CAS/Dynamic-Stock-Co-Movement-Graphs-for-Stock-Predictions)\]
-* Quantitative Stock Investment by Routing Uncertainty-Aware Trading Experts: A Multi-Task Learning Approach \[[Paper](https://arxiv.org/abs/2207.07578)\]\[[Code](https://github.com/johnson7788/AlphaMix)\]
-* Safe-FinRL: A Low Bias and Variance Deep Reinforcement Learning Implementation for High-Freq Stock Trading \[[Paper](https://arxiv.org/abs/2206.05910)\]\[[Code](https://github.com/Tsedao/Safe-FinRL)\]
+* (2022) Trade When Opportunity Comes: Price Movement Forecasting via Locality-Aware Attention and Adaptive Refined Labeling \[[Paper](https://arxiv.org/pdf/2107.11972.pdf)\]\[[Code](https://tinyurl.com/LARA-KDD2022)\]
+* (2022) Inductive Representation Learning on Dynamic Stock Co-Movement Graphs for Stock Predictions \[[Paper](https://www.biz.uiowa.edu/faculty/kangzhao/pub/ijoc_2022.pdf)\]\[[Code](https://github.com/Hugo-CAS/Dynamic-Stock-Co-Movement-Graphs-for-Stock-Predictions)\]
+* (2022) Quantitative Stock Investment by Routing Uncertainty-Aware Trading Experts: A Multi-Task Learning Approach \[[Paper](https://arxiv.org/abs/2207.07578)\]\[[Code](https://github.com/johnson7788/AlphaMix)\]
+* (2022) Safe-FinRL: A Low Bias and Variance Deep Reinforcement Learning Implementation for High-Freq Stock Trading \[[Paper](https://arxiv.org/abs/2206.05910)\]\[[Code](https://github.com/Tsedao/Safe-FinRL)\]
 
 ## 2021
 
@@ -49,7 +49,7 @@ Feel free to suggest decent papers via a PR.
 * (SIGIR 2021) Hyperbolic Online Time Stream Modeling \[[Paper](https://dl.acm.org/doi/10.1145/3404835.3463119)\]\[[Code](https://github.com/midas-research/hyperbolic-tlstm-sigir)\]
 * (ICAIF 2021) FinRL: deep reinforcement learning framework to automate trading in quantitative finance \[[Paper](https://dl.acm.org/doi/10.1145/3490354.3494366)\]\[[Code](https://github.com/AI4Finance-Foundation/FinRL)\]
 * (ACL Findings 2021) Trade the Event: Corporate Events Detection for News-Based Event-Driven Trading \[[Paper](https://aclanthology.org/2021.findings-acl.186.pdf)\]\[[Code](https://github.com/Zhihan1996/TradeTheEvent)\]
-* HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information \[[Paper](http://arxiv.org/abs/2110.13716)\]\[[Code](https://github.com/Wentao-Xu/HIST)\]
+* (2021) HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information \[[Paper](http://arxiv.org/abs/2110.13716)\]\[[Code](https://github.com/Wentao-Xu/HIST)\]
 
 ## 2020
 
@@ -62,13 +62,13 @@ Feel free to suggest decent papers via a PR.
 * (IJCAI 2020) An End-to-End Optimal Trade Execution Framework based on Proximal Policy Optimization \[[Paper](https://www.ijcai.org/Proceedings/2020/627?msclkid=a2b6ad5db7ca11ecb537627a9ca1d4f6)\]\[[Code](https://github.com/TradeMaster-NTU/TradeMaster)\]
 * (CIKM 2020) Fusing Global Domain Information and Local Semantic Information to Classify Financial Documents \[[Paper](https://dl.acm.org/doi/10.1145/3340531.3412707)\]\[[Code](https://github.com/finint/graphSEAT)\]
 * (ESWA 2020) Time-driven feature-aware jointly deep reinforcement learning for financial signal representation and algorithmic trading \[[Paper](https://www.sciencedirect.com/science/article/pii/S0957417419305822?via%3Dihub)\]\[[Code](https://github.com/Lingfeng158/TFJ-DRL-Replication)\]
-* Open Source Cross-Sectional Asset Pricing \[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3604626)\]\[[Code](https://github.com/Sakura-Fire-Capital/CrossSection)\]
+* (2020) Open Source Cross-Sectional Asset Pricing \[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3604626)\]\[[Code](https://github.com/Sakura-Fire-Capital/CrossSection)\]
 
 ## Older Papers
 
-* Enhancing Stock Movement Prediction with Adversarial Training \[[Paper](https://www.ijcai.org/proceedings/2019/0810.pdf)\]\[[Code](https://github.com/fulifeng/Adv-ALSTM)\]
-* Temporal Relational Ranking for Stock Prediction \[[Paper](https://arxiv.org/pdf/1809.09441.pdf)\]\[[Code](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)\]
-* HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction \[[Paper](https://arxiv.org/abs/1908.07999)\]\[[Code](https://github.com/dmis-lab/hats)\]
+* (IJCAI 2019) Enhancing Stock Movement Prediction with Adversarial Training \[[Paper](https://www.ijcai.org/proceedings/2019/0810.pdf)\]\[[Code](https://github.com/fulifeng/Adv-ALSTM)\]
+* (TIS 2019) Temporal Relational Ranking for Stock Prediction \[[Paper](https://arxiv.org/pdf/1809.09441.pdf)\]\[[Code](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)\]
+* (2019) HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction \[[Paper](https://arxiv.org/abs/1908.07999)\]\[[Code](https://github.com/dmis-lab/hats)\]
 * (KDD 2018) Investor-Imitator: A Framework for Trading Knowledge Extraction \[[Paper](https://www.kdd.org/kdd2018/accepted-papers/view/investor-imitator-a-framework-for-trading-knowledge-extraction)\]\[[Code](https://github.com/TradeMaster-NTU/TradeMaster)\]
 * (ACL 2018) Stock Movement Prediction from Tweets and Historical Prices \[[Paper](http://aclweb.org/anthology/P18-1183)\]\[[Code](https://github.com/yumoxu/stocknet-code)\]
 * (WSDM 2018) Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction \[[Paper](https://arxiv.org/abs/1712.02136)\]\[[Code](https://github.com/donghyeonk/han)\]
