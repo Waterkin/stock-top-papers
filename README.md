@@ -2,6 +2,7 @@
 
 The sole purpose of this repository is to help me organize recent academic papers *with codes* related to _stock price prediction_, _quantitative trading_, _risk modeling_. This is a non-exhausting list, even though I'll try to keep it updated...
 Feel free to suggest decent papers via a PR.
+If you find this repository helpful consider leaving a :star:
 
 # Table of Contents
 
@@ -110,7 +111,17 @@ Feel free to suggest decent papers via a PR.
 [Back to top](#table-of-contents)
 ## Stock Price Prediction
 
-To be done...
+* (ICDE 2023) Relational Temporal Graph Convolutional Network for Ranking-based Stock Prediction \[[Paper](https://ieeexplore.ieee.org/document/10184655)\]\[[Code](https://github.com/zhengzetao/RTGCN)\]
+* (TKDE 2023) Stock Movement Prediction Based on Bi-typed and Hybrid-relational Market Knowledge Graph via Dual Attention Networks \[[Paper](https://www.semanticscholar.org/paper/Stock-Movement-Prediction-Based-on-Bi-Typed-Market-Zhao-Du/dbaf9ff32a00161d777f6f5cd50e4028d733bd0d)\]\[[Code](https://github.com/trytodoit227/DANSMP)\]
+* (KDD 2023) DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599315)\]\[[Code](https://github.com/SJTU-Quant/qlib)\]
+* (2023) Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction \[[Paper](https://arxiv.org/abs/2309.00073)\]\[[Code](https://github.com/koa-fin/dva)\]
+* (CIKM 2022) Temporal and Heterogeneous Graph Neural Network for Financial Time Series Prediction \[[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557089)\]\[[Code](https://github.com/finint/THGNN)\]
+* (2022) Inductive Representation Learning on Dynamic Stock Co-Movement Graphs for Stock Predictions \[[Paper](https://www.biz.uiowa.edu/faculty/kangzhao/pub/ijoc_2022.pdf)\]\[[Code](https://github.com/Hugo-CAS/Dynamic-Stock-Co-Movement-Graphs-for-Stock-Predictions)\]
+* (CIKM 2021) Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion \[[Paper](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2021/Min-Hou-CIKM.pdf)\]\[[Code](https://github.com/CMLF-git-dev/CMLF)\]
+* (KDD 2021) Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts \[[Paper](https://datalab.snu.ac.kr/~ukang/papers/dtmlKDD21.pdf)\]\[[Code](https://github.com/simonjisu/DTML-pytorch)\]
+* (2021) HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information \[[Paper](http://arxiv.org/abs/2110.13716)\]\[[Code](https://github.com/Wentao-Xu/HIST)\]
+* (EMNLP 2020) Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations \[[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.676)\]\[[Code](https://github.com/midas-research/man-sf-emnlp)\]
+* (ICDM 2020) Spatiotemporal Hypergraph Convolution Network for Stock Movement Forecasting \[[Paper](https://ieeexplore.ieee.org/document/9338303/)\]\[[Code](https://github.com/midas-research/sthgcn-icdm)\]
 
 ## Stock Trading
 
@@ -220,5 +231,3 @@ To be done...
 ## Ensemble Learning
 
 * (ICDM 2020) DoubleEnsemble: A New Ensemble Method Based on Sample Reweighting and Feature Selection for Financial Data Analysis \[[Paper](https://www.semanticscholar.org/paper/DoubleEnsemble%3A-A-New-Ensemble-Method-Based-on-and-Zhang-Li/96d8383288eba50d69f516522154cf52625c7a4f)\]\[[Code](https://github.com/Sakura-Fire-Capital/DoubleEnsembleML)\]
-
-### If you find this repository Helpful consider leaving a :star:
