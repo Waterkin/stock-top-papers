@@ -44,10 +44,10 @@ If you find this repository helpful consider leaving a :star:
 * (KDD 2023) DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599315)\]\[[Code](https://github.com/SJTU-Quant/qlib)\]
 * (KDD 2023) Efficient Continuous Space Policy Optimization for High-frequency Trading \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599813)\]\[[Code](https://github.com/finint/DRPO)\]
 * (KDD 2023)Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning \[[Paper](https://arxiv.org/pdf/2306.12964)\]\[[Code](https://github.com/RL-MLDM/alphagen)\]
+* (CIKM 2023) Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction \[[Paper](https://arxiv.org/abs/2309.00073)\]\[[Code](https://github.com/koa-fin/dva)\]
 * (2023) FinGPT: Democratizing Internet-scale Data for Financial Large Language Models \[[Paper](https://arxiv.org/abs/2307.10485)\]\[[Code](https://github.com/AI4Finance-Foundation/FinGPT)\]
 * (2023) Generative Meta-Learning Robust Quality-Diversity Portfolio \[[Paper](https://arxiv.org/abs/2307.07811)\]\[[Code](https://github.com/kayuksel/generative-opt)\]
 * (2023) MOPO-LSI: A User Guide \[[Paper](https://arxiv.org/abs/2307.01719)\]\[[Code](https://github.com/irecsys/MOPO-LSI)\]
-* (2023) Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction \[[Paper](https://arxiv.org/abs/2309.00073)\]\[[Code](https://github.com/koa-fin/dva)\]
 
 ## 2022
 
@@ -79,6 +79,7 @@ If you find this repository helpful consider leaving a :star:
 * (SIGIR 2021) Hyperbolic Online Time Stream Modeling \[[Paper](https://dl.acm.org/doi/10.1145/3404835.3463119)\]\[[Code](https://github.com/midas-research/hyperbolic-tlstm-sigir)\]
 * (ICAIF 2021) FinRL: deep reinforcement learning framework to automate trading in quantitative finance \[[Paper](https://dl.acm.org/doi/10.1145/3490354.3494366)\]\[[Code](https://github.com/AI4Finance-Foundation/FinRL)\]
 * (ACL Findings 2021) Trade the Event: Corporate Events Detection for News-Based Event-Driven Trading \[[Paper](https://aclanthology.org/2021.findings-acl.186.pdf)\]\[[Code](https://github.com/Zhihan1996/TradeTheEvent)\]
+* (Pattern Recognition 2021) Temporal-Relational hypergraph tri-Attention networks for stock trend prediction \[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323004570)\]\[[Code](https://github.com/lixiaojieff/HGTAN)\]
 * (2021) HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information \[[Paper](http://arxiv.org/abs/2110.13716)\]\[[Code](https://github.com/Wentao-Xu/HIST)\]
 
 ## 2020
@@ -122,6 +123,12 @@ If you find this repository helpful consider leaving a :star:
 * (2021) HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information \[[Paper](http://arxiv.org/abs/2110.13716)\]\[[Code](https://github.com/Wentao-Xu/HIST)\]
 * (EMNLP 2020) Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations \[[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.676)\]\[[Code](https://github.com/midas-research/man-sf-emnlp)\]
 * (ICDM 2020) Spatiotemporal Hypergraph Convolution Network for Stock Movement Forecasting \[[Paper](https://ieeexplore.ieee.org/document/9338303/)\]\[[Code](https://github.com/midas-research/sthgcn-icdm)\]
+* (IJCAI 2019) Enhancing Stock Movement Prediction with Adversarial Training \[[Paper](https://www.ijcai.org/proceedings/2019/0810.pdf)\]\[[Code](https://github.com/fulifeng/Adv-ALSTM)\]
+* (TIS 2019) Temporal Relational Ranking for Stock Prediction \[[Paper](https://arxiv.org/pdf/1809.09441.pdf)\]\[[Code](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)\]
+* (2019) HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction \[[Paper](https://arxiv.org/abs/1908.07999)\]\[[Code](https://github.com/dmis-lab/hats)\]
+* (ACL 2018) Stock Movement Prediction from Tweets and Historical Prices \[[Paper](http://aclweb.org/anthology/P18-1183)\]\[[Code](https://github.com/yumoxu/stocknet-code)\]
+* (WSDM 2018) Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction \[[Paper](https://arxiv.org/abs/1712.02136)\]\[[Code](https://github.com/donghyeonk/han)\]
+* (KDD 2017) Stock Price Prediction via Discovering Multi-Frequency Trading Patterns \[[Paper](https://dl.acm.org/doi/10.1145/3097983.3098117)\]\[[Code](https://github.com/microsoft/qlib)\]
 
 ## Stock Trading
 
@@ -220,6 +227,7 @@ To be done...
 
 * (2022) Quantitative Stock Investment by Routing Uncertainty-Aware Trading Experts: A Multi-Task Learning Approach \[[Paper](https://arxiv.org/abs/2207.07578)\]\[[Code](https://github.com/johnson7788/AlphaMix)\]
 * (ACM MM 2020) Multimodal Multi-Task Financial Risk Forecasting \[[Paper](https://dl.acm.org/doi/10.1145/3394171.3413752)\]\[[Code](https://github.com/midas-research/multimodal-financial-forecasting)\]
+
 ## Contrastive Learning
 
 * (CIKM 2021) Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion \[[Paper](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2021/Min-Hou-CIKM.pdf)\]\[[Code](https://github.com/CMLF-git-dev/CMLF)\]
