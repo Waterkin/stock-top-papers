@@ -35,6 +35,10 @@ If you find this repository helpful consider leaving a :star:
 
 [Back to top](#table-of-contents)
 
+## 2024
+* (AAAI 2024) MASTER: Market-Guided Stock Transformer for Stock Price Forecasting \[[Paper](https://arxiv.org/abs/2312.15235)\]\[[Code](https://github.com/SJTU-Quant/MASTER)\]
+* (AAAI 2024) StockMixer: A Simple yet Strong MLP-based Architecture for Stock Price Forecasting \[[Paper](https://github.com/SJTU-Quant/StockMixer)\]\[[Code](https://github.com/SJTU-Quant/StockMixer)\]
+
 ## 2023
 
 * (AAAI 2023) StockEmotions: Discover Investor Emotions for Financial Sentiment Analysis and Multivariate Time Series \[[Paper](https://www.semanticscholar.org/paper/StockEmotions%3A-Discover-Investor-Emotions-for-and-Lee-Youn/13e4e72303a630c4b7e581d59facfc014c846a24)\]\[[Code](https://github.com/adlnlp/StockEmotions)\]
